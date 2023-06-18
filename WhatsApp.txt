@@ -20,3 +20,4 @@ This is the WhatsApp Code:
 16. Block users in status.
 17. Adding Payment options.
 18. sharing photos & videos without reducing the resolution.
+19. Adding edit chat feature.
